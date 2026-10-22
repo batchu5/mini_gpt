@@ -1,0 +1,5 @@
+data/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+input.txt
